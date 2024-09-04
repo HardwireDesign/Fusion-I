@@ -1,5 +1,5 @@
 Inline-style: 
-![alt text](**https://github.com/HardwireDesign/Fusion-I/** "Picture1")
+![alt text](https://github.com/HardwireDesign/Fusion-I/tree/main/Photography/Guitar-12-min.jpg "Picture1")
 
 Hardwire Design's first model. 
 
