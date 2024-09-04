@@ -1,4 +1,3 @@
-Inline-style: 
 ![alt text](https://github.com/HardwireDesign/Fusion-I/blob/main/Photography/Guitar-23-min.jpg "Picture1")
 
 Hardwire Design's first model. 
