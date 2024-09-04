@@ -1,3 +1,6 @@
+Inline-style: 
+![alt text](**https://github.com/HardwireDesign/Fusion-I/** "Picture1")
+
 Hardwire Design's first model. 
 
 The Fusion-I blends traditional styles of electric guitar with complicated geometry achieved using modern CNC technology. Complete with Machined Aluminum plates in the Pickguard, Tremolo Cover, and Neck Plate. 
