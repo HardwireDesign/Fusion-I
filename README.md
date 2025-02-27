@@ -10,11 +10,10 @@ In designing this guitar I intended for it to be incredibly easy to work on, whi
 
 The pictured build uses a Guitarfetish neck as I did not have a proper setup for milling necks at the time, will update with pictures after a neck is produced. The standard wiring is a Passive Treble & Bass control with One volume, one treble, and one bass pot. A visual wiring diagram from singlecoil.com is included in the files.
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
-
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
 [cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
